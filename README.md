@@ -1,2 +1,2 @@
-# Meeting-Room-Booking
-Meeting-Room-Booking using react
+# Meeting-Room
+Meeting-Room-Booking-Using-React.Js
